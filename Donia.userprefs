@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Camera\RTS_Camera.cs">
+    <Files>
+      <File FileName="Assets\Script\Buildings\WorldObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Buildings\HoverObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\City Menu\CityMenyButtons.cs" Line="39" Column="5" />
+      <File FileName="Assets\Script\Buildings\BuildingButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Buildings\BuildingManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Risks\RiskEffectFire.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\People\FreeWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Camera\RTS_Camera.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,6 +1,6 @@
 # Donia
 
-A City-building game set in ancient Egypt
+An isometric city-building game set in ancient Egypt.
 
 Assets and code for a game I worked on for a bit.
 
